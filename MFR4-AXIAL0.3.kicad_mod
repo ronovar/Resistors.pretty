@@ -11,4 +11,9 @@
   (fp_line (start -1.85 1.25) (end 1.85 1.25) (layer F.SilkS) (width 0.254))
   (pad 1 thru_hole circle (at -3.81 0) (size 2.0574 2.0574) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 3.81 0) (size 2.0574 2.0574) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
+  (model resistors.3dshapes/MFR4-AXIAL0.3.wrl
+    (at (xyz -0.150000 0 0))
+    (scale (xyz 0.393700 0.393700 0.393700))
+    (rotate (xyz 0 0 0))
+  )
 )
