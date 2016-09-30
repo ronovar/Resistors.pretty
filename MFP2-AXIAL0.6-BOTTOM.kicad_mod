@@ -11,4 +11,9 @@
   (fp_line (start -3 2) (end 3 2) (layer B.SilkS) (width 0.254))
   (pad 1 smd circle (at -7.62 0) (size 2.4892 2.4892) (layers B.Cu B.Mask))
   (pad 2 smd circle (at 7.62 0) (size 2.4892 2.4892) (layers B.Cu B.Mask))
+  (model resistors.3dshapes/MFP2-AXIAL0.6-BOTTOM.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.393700 0.393700 0.393700))
+    (rotate (xyz 0 0 0))
+  )
 )
